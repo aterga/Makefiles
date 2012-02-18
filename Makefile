@@ -1,3 +1,5 @@
+# Last modified: 17FEB2012
+
 DEVICE     = atmega8535
 CLOCK      = 8000000
 PROGRAMMER = -c avr910 -P /dev/ttyACM0
